@@ -11,7 +11,7 @@ acknowledgments including Apple, Google, the United Nations, Nokia, Dell, and So
 - 🧭 **Before:** SecOps Engineer @ Netreo (a BMC company) · Siemens
 - 🎓 REVA University, Bengaluru (2013–2016)
 - 🛡️ **Focus:** web/API pentesting, authorization & business-logic flaws, cloud attack surface, AI/LLM security
-- 🎯 **Bug bounty:** [HackerOne](https://hackerone.com/) · [Bugcrowd](https://bugcrowd.com/h/sagarbanwa) · YesWeHack · Yogosha · Intigriti
+- 🎯 **Bug bounty:** [HackerOne](https://hackerone.com/) · [Bugcrowd](https://bugcrowd.com/h/sagarbanwa1337) · YesWeHack · Yogosha · Intigriti
 - 📫 [LinkedIn](https://www.linkedin.com/in/sagarbanwa/)
 
 ---
